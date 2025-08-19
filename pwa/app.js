@@ -4,13 +4,13 @@ import { getAnalytics } from 'https://www.gstatic.com/firebasejs/11.9.0/firebase
 
 // ✅ Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCRW21tS8utm3FbutjRwBML_WaHpj9FZMY",
+  apiKey: "",
   authDomain: "streak-plugin.firebaseapp.com",
   projectId: "streak-plugin",
   storageBucket: "streak-plugin.firebasestorage.app",
-  messagingSenderId: "1028245249820",
-  appId: "1:1028245249820:web:0a1e463281b8abf1f3a4d9",
-  measurementId: "G-THY2YL89Q6"
+  messagingSenderId: "102820",
+  appId: "1:1028",
+  measurementId: "G-T89Q6"
 };
 
 // ✅ Initialize Firebase
